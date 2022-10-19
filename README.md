@@ -1,1 +1,1 @@
-# Praktikum
+# Praktikum-Inheritance
